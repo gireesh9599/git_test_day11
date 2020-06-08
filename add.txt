@@ -1,5 +1,5 @@
 int add()
 {
-int a=8,b=5,c=4;
+int a=8,b=5,c=6;
 return a+b+c;
 }
